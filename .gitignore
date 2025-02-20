@@ -1,0 +1,10 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Archivos y carpetas generados por Godot
+.import/
+.export/
+*.import
+*.godot
+
