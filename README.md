@@ -62,3 +62,9 @@ Si deseas contribuir a este proyecto:
 
 3. Realiza tus cambios y haz _commit_ con mensajes descriptivos.
 4. Envía un _pull request_ explicando tus modificaciones.
+
+## Encargados de hacer la reimplementación
+<div align="center">
+<a href="https://github.com/abrahamcruzc"><img src="https://avatars.githubusercontent.com/u/89595482?v=4" title="abraham-cruz" width="50" height="50" ></a>
+<a href="https://github.com/LeticiaTejeroGamboa2401"><img src="https://avatars.githubusercontent.com/u/92128636?v=4" title="lae-tejero" width="50" height="50" ></a>
+</div>
