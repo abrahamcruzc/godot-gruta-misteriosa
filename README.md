@@ -19,7 +19,6 @@ Este proyecto es una reimplementación en **Godot** del videojuego educativo **"
   - _Carreras de Caballos:_ Problemas relacionados con la velocidad y la distancia.
   - _Atrapa Peces:_ Ejercicios de comparación numérica y lógica.
   - _Lanza Dardos:_ Actividad enfocada en operaciones básicas.
-  - _Adivina el Producto:_ Desafíos de multiplicación y factores.
   - _Atínale al Puerquito:_ Problemas de cálculo mental y estimaciones.
   - _Derriba al Pato:_ Ejercicios de resolución de ecuaciones simples.
 - **Interfaz adaptada para niños:** Diseño visual y controles intuitivos pensados para estudiantes de 11 a 12 años.
