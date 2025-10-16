@@ -1,4 +1,4 @@
-# Godot Gruta Misteriosa
+# Godot Gruta Misteriosa -
 
 Este proyecto es una reimplementación en **Godot** del videojuego educativo **"Gruta Misteriosa"**, originalmente desarrollado en Sténcil. El objetivo es mejorar la comprensión lectora matemática en niños de quinto y sexto grado, a través de una experiencia de juego interactiva y lúdica.
 
